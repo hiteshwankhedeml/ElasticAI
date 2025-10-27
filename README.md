@@ -1,2 +1,2 @@
-# Page
+# 📘 Semantic Search - Foundations
 
