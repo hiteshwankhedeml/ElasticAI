@@ -1,8 +1,6 @@
 # Table of contents
 
-* [📘 Semantic Search - Foundations](README.md)
-* [Introduction](introduction.md)
-* [Create the inference endpoint](create-the-inference-endpoint.md)
+* [Create the inference endpoint](README.md)
 * [Semantic Search - Syntax](semantic-search-syntax.md)
 * [Highlight Syntax](highlight-syntax.md)
 * [Retrievers](retrievers.md)
