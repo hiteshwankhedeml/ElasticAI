@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Genie](README.md)
-* [Genie One](genie-one.md)
-* [Chat in Genie One](chat-in-genie-one.md)
+* [🟢 Genie](README.md)
+* [🟢 Genie One](genie-one.md)
+* [🟢 Chat in Genie One](chat-in-genie-one.md)
 * [Connect to External Tools](connect-to-external-tools.md)
 * [Genie Code](genie-code.md)
 * [Scheduled Tasks](scheduled-tasks.md)
@@ -30,4 +30,7 @@
 * [Configure Compute](configure-compute.md)
 * [Horizontal Scaling](horizontal-scaling.md)
 * [Add Resources](add-resources.md)
-* [Apps](apps.md)
+* [Resources - Apps](resources-apps.md)
+* [Resources - Unity Catalog](resources-unity-catalog.md)
+* [Resources - Genie Agent](resources-genie-agent.md)
+* [Resources - Others](resources-others.md)

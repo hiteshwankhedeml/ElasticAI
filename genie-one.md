@@ -1,11 +1,11 @@
-# Genie One
+# 🟢 Genie One
 
-**Levels:**
+<mark style="color:purple;background-color:purple;">**Levels:**</mark>
 
-* Workspace levels:
+* <mark style="color:purple;background-color:purple;">**Workspace levels:**</mark>
   * Scoped to a single workspace and available only to its members
-* Account level:
-  * All workspaces in your Azure Databricks account
+* <mark style="color:purple;background-color:purple;">**Account level:**</mark>
+  * <mark style="color:purple;background-color:purple;">**All workspaces in your Azure Databricks account**</mark>
   * Use the workspace switcher in Genie One and select **Account-level**
   * Users in your VPCs or on-premises networks can reach account-level Genie One over a private connection instead of the public internet
 

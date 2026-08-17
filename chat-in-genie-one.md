@@ -1,8 +1,8 @@
-# Chat in Genie One
+# 🟢 Chat in Genie One
 
-* It first searches available Genie Agents for a match, then searches across dashboards, queries, and metric views.
-* Workspace admins can add custom instructions that apply to every chat conversation in the workspace
-* Upload CSV, Excel, and PDF files directly into a Genie Agent
+* <mark style="color:purple;background-color:purple;">**It first searches available Genie Agents for a match, then searches across dashboards, queries, and metric views.**</mark>
+* <mark style="color:purple;background-color:purple;">**Workspace admins can add custom instructions that apply to every chat conversation in the workspace**</mark>
+* <mark style="color:purple;background-color:purple;">**Upload CSV, Excel, and PDF files directly into a Genie Agent**</mark>
 
 
 
